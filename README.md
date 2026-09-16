@@ -30,7 +30,6 @@ interested_in:
 looking_for: "Software Development Internship"
 ```
 - 🗣️ Studying English @IMPARH
-- ⚡ Fun fact: Spend my free time surfing, cooking and learning about whales 🐋
 
 ---
 
