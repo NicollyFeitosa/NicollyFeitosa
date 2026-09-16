@@ -27,7 +27,6 @@ interested_in:
   - "Software Engineering"
   - "AI Agents & Automation"
   - "Scalable backend systems"
-looking_for: "Software Development Internship"
 ```
 - 🗣️ Studying English @IMPARH
 
